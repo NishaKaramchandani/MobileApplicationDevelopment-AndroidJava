@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Multi Notes</string>
+    <string name="enter_title_hint">Enter New Note Title here</string>
+    <string name="enter_description_hint">Enter New Note Description here</string>
+    <string name="no_notes_message">No notes added yet! Please click on add button to add some!</string>
+    <string name="dialog_positive">YES</string>
+    <string name="dialog_negative">NO</string>
+    <string name="copyright_text">\u00A9 2018 Nisha Karamchandani</string>
+    <string name="app_version">Version 1.0</string>
+
+    <string name="json_array_key">notes</string>
+    <string name="json_note_title_key">note_tile</string>
+    <string name="json_note_datetime_key">note_date_time</string>
+    <string name="json_note_description_key">note_description</string>
+
+    <string name="intent_multinote_key">multinote</string>
+    <string name="intent_recyclerview_position">multinote_position</string>
+</resources>
